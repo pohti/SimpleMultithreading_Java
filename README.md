@@ -1,4 +1,5 @@
 # SimpleMultithreading_Java
+Assuming you are on Windows
 1. Run compile.bat to compile all the necessary .java files
 2. Run server.bat to launch server program
 3. You can launch viewer.bat and player.bat in any order
